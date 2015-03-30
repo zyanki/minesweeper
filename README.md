@@ -10,7 +10,7 @@ minesweeper
 2.input a number of lines of panels (max 9)
 ゲーム画面の縦の大きさを決めます。1〜9の範囲で決めて下さい。(例:9)
 
-3.input a number of bombs of panels (max 81)
+3.input a number of bombs of panels
 爆弾の数を決めます。1〜81の範囲で決めて下さい。(例:1)
 
 4.input a num of row and char of line
